@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week3Switch", "Week3Switch\Week3Switch.csproj", "{18D9AE63-65E0-400A-9430-E0705EB56754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week3RemainderOperator", "Week3RemainderOperator\Week3RemainderOperator.csproj", "{BA95B6CA-A119-46E6-AE3B-4969FAAC31D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18D9AE63-65E0-400A-9430-E0705EB56754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D9AE63-65E0-400A-9430-E0705EB56754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D9AE63-65E0-400A-9430-E0705EB56754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D9AE63-65E0-400A-9430-E0705EB56754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA95B6CA-A119-46E6-AE3B-4969FAAC31D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA95B6CA-A119-46E6-AE3B-4969FAAC31D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA95B6CA-A119-46E6-AE3B-4969FAAC31D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA95B6CA-A119-46E6-AE3B-4969FAAC31D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB89A66F-A143-4D7D-80E0-B224CB1DA93D}
+	EndGlobalSection
+EndGlobal
